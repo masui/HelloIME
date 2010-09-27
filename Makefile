@@ -1,5 +1,5 @@
 all:
-	ruby tangle
+	ruby tangle.rb
 	ant debug
 install:
 	adb install -r bin/HelloIME-debug.apk
