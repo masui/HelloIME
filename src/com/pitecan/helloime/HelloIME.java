@@ -2,7 +2,7 @@
 //
 // タ ッチすると常に「Hello, World」という文字が入力されるネタIME
 //
-// [[http://www.techdoctranslator.com/resources/articles/articles-index/creating-input-method IMEドキュメント]]に書かれているようなメソッドを普通はいろいろ使うのだがaaaaaaa
+// [[http://www.techdoctranslator.com/resources/articles/articles-index/creating-input-method IMEドキュメント]]に書かれているようなメソッドを普通はいろいろ使うのだが
 //
 // このサンプルでは絶対必要なものだけ使っている。
 //
